@@ -1,5 +1,5 @@
 ## Problem statement :
-To check whether the given schedule is recoverable or cascadeless.
+To check whether a given schedule is recoverable or cascadeless.
 
 ## Usage :
 - g++ -std=c++11 Recoverability.cpp
